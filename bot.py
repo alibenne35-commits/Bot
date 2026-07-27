@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application,MessageHandler,filters,ContextTypes
 import json,os
-TOKEN="YOUR_BOT_TOKEN"
+TOKEN="8601433292:AAGmJJaH7tWEoMoqL2v0n7kq5WdErxyuQt0"
 DATA_FILE="data.json"
 last=[]
 def load():
